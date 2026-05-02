@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Aplicativo de Pesquisa Eleitoral
 
 Este aplicativo permite coletar, organizar e visualizar pesquisas eleitorais em tempo real.
