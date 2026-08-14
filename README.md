@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # Aplicativo de Pesquisa Eleitoral
 
